@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Bird",
+  "identifier": "texture:208455-727d36cf-8207-41fa-86e6-36cb4aba5117",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "643c9b40ea3dc7cbc9be161b215a4844",
+  "assetLocator": "textures/Bird.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209369-727d36cf-8207-41fa-86e6-36cb4aba5117",
+    "textureExportConfig:209485-727d36cf-8207-41fa-86e6-36cb4aba5117",
+    "textureExportConfig:209603-727d36cf-8207-41fa-86e6-36cb4aba5117"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "643c9b40ea3dc7cbc9be161b215a4844",
+      "colorCount": 2729,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.25876439395395,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
